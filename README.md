@@ -51,9 +51,9 @@ Our projects span multiple technologies and stacks, including but not limited to
 
 ## 💬 **Contact Us**
 If you have any questions or want to collaborate, feel free to reach out!
-- **Discord**: [World Devs Server]() (replace with link)
+- **Discord**: [World Devs Server](https://discord.gg/Pm2TKw3YfJ)
 - **Email**: [worlddevseu@gmail.com](mailto:worlddevseu@gmail.com)
-- **GitHub**: [@WorldDevs](#)
+- **GitHub**: [@WorldDevs](#WorldDevs)
 
 ---
 
