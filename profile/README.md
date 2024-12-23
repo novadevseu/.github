@@ -32,7 +32,7 @@ With team members fluent in multiple languages, including Spanish, English, Croa
 
 ## 🛠️ **Technologies We Use**
 Our expertise spans a wide range of technologies, including:
-- **Frontend**: HTML, CSS, Tailwind CSS, Angular, React
+- **Frontend**: HTML, CSS, Tailwind CSS, Angular, React, Astro
 - **Backend**: Node.js, Python, Java
 - **DevOps**: Docker, Kubernetes, CI/CD tools
 - **Databases**: MySQL, PostgreSQL, MongoDB
