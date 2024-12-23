@@ -1,61 +1,58 @@
-# 🌍 **World Devs**
+# 🌍 **Nova Devs**
 
-Welcome to **World Devs**, a global community of developers, designers, and tech enthusiasts working together to build, learn, and grow in the ever-evolving world of technology. Whether you're a seasoned professional or a curious beginner, there's a place for you here!
+Welcome to **Nova Devs**, a dynamic international team of developers, designers, and tech enthusiasts dedicated to creating impactful and innovative software solutions. Whether you're a client seeking custom applications or a developer looking to collaborate, Nova Devs is the place to be!
 
 ---
 
 ## 🚀 **Our Mission**
-To create a thriving ecosystem where individuals can collaborate on real-world projects, share knowledge, and develop innovative solutions that make an impact. We believe in the power of community-driven learning and creativity.
+To deliver high-quality, tailor-made software solutions while fostering an environment of creativity, collaboration, and continuous learning. Our team thrives on solving complex challenges and building meaningful products for clients around the globe.
 
 ---
 
 ## 💡 **What We Do**
 
+### 🌐 **Custom Solutions for Clients**
+We specialize in building cross-platform and web applications tailored to meet the unique needs of our clients. From concept to deployment, we ensure seamless communication and exceptional quality.
+
 ### 👥 **Collaborative Projects**
-We work on diverse projects ranging from web and mobile apps to open-source tools and frameworks. Every member has the opportunity to contribute, learn, and showcase their skills.
+Our team collaborates with international professionals, sharing expertise and resources to create innovative solutions that stand out in the market.
 
-### 📘 **Knowledge Sharing**
-Our community thrives on learning. We share resources, tutorials, and best practices to help each other grow and stay up-to-date with the latest technologies.
-
-### 🌐 **Networking and Growth**
-Connect with like-minded professionals from around the world, participate in events, and discover mentorship opportunities to advance your career.
+### 🌍 **Global Reach**
+With team members fluent in multiple languages, including Spanish, English, Croatian, and Turkish, we ensure smooth collaboration with clients and partners worldwide.
 
 ---
 
 ## 🌟 **Core Values**
-- **Collaboration**: Teamwork makes the dream work.
-- **Inclusivity**: Everyone is welcome, regardless of experience or background.
-- **Innovation**: Challenge the status quo and think outside the box.
-- **Respect**: Treat every member with kindness and professionalism.
+- **Innovation**: Continuously explore new technologies and ideas.
+- **Quality**: Deliver exceptional results with attention to detail.
+- **Collaboration**: Work as a cohesive team across borders and disciplines.
+- **Transparency**: Foster trust through clear communication and processes.
 
 ---
 
 ## 🛠️ **Technologies We Use**
-Our projects span multiple technologies and stacks, including but not limited to:
-- **Frontend**: HTML, CSS, JavaScript, React, Angular
-- **Backend**: Node.js, Python, Java, Spring Boot
+Our expertise spans a wide range of technologies, including:
+- **Frontend**: HTML, CSS, Tailwind CSS, Angular, React
+- **Backend**: Node.js, Python, Java
 - **DevOps**: Docker, Kubernetes, CI/CD tools
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Others**: AI/ML, Blockchain, Mobile Development
+- **Databases**: MySQL, PostgreSQL, MongoDB
 
 ---
 
 ## 🎯 **Get Involved**
 
-1. **Join Our Community**: Be part of the conversation on our [Discord Server](#) (replace with your link).
-2. **Contribute to Projects**: Check out our repositories and contribute to active projects or start your own.
-3. **Share Your Knowledge**: Help others by sharing tutorials, guides, and tips.
-4. **Participate in Events**: Join our hackathons, code reviews, and Q&A sessions.
+1. **Work with Us**: Start your project by reaching out via [Upwork](https://www.upwork.com/agencies/1864021705604676426/).
+2. **Collaborate**: Connect with us on [LinkedIn](https://www.linkedin.com/company/nova-devs-eu/) to explore opportunities.
+3. **Learn More**: Follow our journey and see our latest projects through our platforms.
 
 ---
 
 ## 💬 **Contact Us**
-If you have any questions or want to collaborate, feel free to reach out!
-- **Discord**: [World Devs Server](https://discord.gg/Pm2TKw3YfJ)
-- **Email**: [worlddevseu@gmail.com](mailto:worlddevseu@gmail.com)
-- **GitHub**: [@worlddevseu](https://github.com/worlddevseu)
+We are always open to new collaborations and opportunities. Reach out to us through the following channels:
+- **Upwork**: [Nova Devs Upwork Profile](https://www.upwork.com/agencies/1864021705604676426/)
+- **LinkedIn**: [Nova Devs LinkedIn](https://www.linkedin.com/company/nova-devs-eu/)
 
 ---
 
 ## 🎉 **Let’s Build Together**
-World Devs is more than a community—it’s a movement. Together, we can create, innovate, and make a difference. Join us today and let’s shape the future of technology! 🚀✨
+At Nova Devs, we believe in turning ideas into reality. Whether you’re looking for a custom application or a team to bring your vision to life, we’re here to help. Join us on our journey to innovate and create impactful solutions!
